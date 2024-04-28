@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hhd9FnNtT8mAAi7Bc+/wR6ZNir1kv9Nb1WyOhTyn0I1ygDaJcXlwbnbjr6IWu10mERMEPWN6MWxGFvoTzamLMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\skinetz\\Core\\Core.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.216.78.62/PusintekGet/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
