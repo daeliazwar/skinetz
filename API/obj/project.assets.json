@@ -1930,19 +1930,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\daeli\\.nuget\\packages\\": {}
+    "C:\\Users\\azwda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\skinetz\\API\\API.csproj",
+      "projectUniqueName": "D:\\Learn\\Skinetz\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Learn\\skinetz\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\daeli\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\skinetz\\API\\obj\\",
+      "projectPath": "D:\\Learn\\Skinetz\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\azwda\\.nuget\\packages\\",
+      "outputPath": "D:\\Learn\\Skinetz\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\azwda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1950,15 +1950,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://10.216.78.62/PusintekGet/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Learn\\skinetz\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Learn\\skinetz\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Learn\\Skinetz\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Learn\\Skinetz\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -2011,16 +2010,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.216.78.62/PusintekGet/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }

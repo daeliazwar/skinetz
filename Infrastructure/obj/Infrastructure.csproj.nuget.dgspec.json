@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\skinetz\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Learn\\Skinetz\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\skinetz\\Core\\Core.csproj": {
+    "D:\\Learn\\Skinetz\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\skinetz\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Learn\\Skinetz\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Learn\\skinetz\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\daeli\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\skinetz\\Core\\obj\\",
+        "projectPath": "D:\\Learn\\Skinetz\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\azwda\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Skinetz\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\azwda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.216.78.62/PusintekGet/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Learn\\skinetz\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Learn\\Skinetz\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\skinetz\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Learn\\Skinetz\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Learn\\skinetz\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\daeli\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\skinetz\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Learn\\Skinetz\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\azwda\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Skinetz\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\azwda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,15 +77,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.216.78.62/PusintekGet/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Learn\\skinetz\\Core\\Core.csproj": {
-                "projectPath": "D:\\Learn\\skinetz\\Core\\Core.csproj"
+              "D:\\Learn\\Skinetz\\Core\\Core.csproj": {
+                "projectPath": "D:\\Learn\\Skinetz\\Core\\Core.csproj"
               }
             }
           }
@@ -122,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

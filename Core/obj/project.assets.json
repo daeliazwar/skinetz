@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\daeli\\.nuget\\packages\\": {}
+    "C:\\Users\\azwda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\skinetz\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\Learn\\Skinetz\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\Learn\\skinetz\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\daeli\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\skinetz\\Core\\obj\\",
+      "projectPath": "D:\\Learn\\Skinetz\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\azwda\\.nuget\\packages\\",
+      "outputPath": "D:\\Learn\\Skinetz\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\azwda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://10.216.78.62/PusintekGet/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,16 +61,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.216.78.62/PusintekGet/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }
